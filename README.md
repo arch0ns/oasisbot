@@ -3,11 +3,8 @@
 ![banner](image-1.png)
 AI inference powered by distributed compute
 
-# [Register Here](https://r.oasis.ai/fra1156)
+# [Register Here](https://r.oasis.ai/mrs03)
 
-# Good Proxy for OASIS
-- [Cherry Proxy](https://center.cherryproxy.com/Login/Register?invite=gshadowz)
-- [922 Proxy](https://www.922proxy.com/register?inviter_code=gshadowz)
 
 # Features
 
