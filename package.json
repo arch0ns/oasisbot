@@ -1,0 +1,39 @@
+{
+  "name": "oasisai-bot",
+  "type": "module",
+  "version": "1.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "setup": "node setup.js",
+    "autoreff": "node autoreff.js"
+  },
+  "author": "@gshadowz",
+  "license": "MIT",
+  "description": "oasis ai bot auto create multiple providers",
+  "dependencies": {
+    "@cemalgnlts/mailjs": "^3.0.1",
+    "axios": "^1.7.8",
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0",
+    "https-proxy-agent": "^7.0.5",
+    "socks-proxy-agent": "8.0.5",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gshadowz/oasis-bot.git"
+  },
+  "keywords": [
+    "oasis-bot",
+    "oasisbot",
+    "oasisaibot",
+    "oasisai-bot",
+    "https://oasis.ai"
+  ],
+  "bugs": {
+    "url": "https://github.com/gshadowz/oasis-bot/issues"
+  },
+  "homepage": "https://github.com/gshadowz/oasis-bot#readme"
+}

@@ -1,0 +1,9 @@
+-Setting accounts.txt dan Proxy.txt
+
+
+-npm install
+-npm run setup
+-npm run start
+
+INI OPSIONAL KALO ABANG MAU PAKE REFF BOT
+-npm run autoreff
